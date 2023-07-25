@@ -1,0 +1,17 @@
+channels:
+#  - sherpa
+#  - anaconda
+#  - astropy
+  - defaults
+  - conda-forge
+dependencies:
+  - scipy
+  - numpy
+  - matplotlib
+#  - arviz
+#  - astropy
+#  - emcee
+#  - lmfit
+#  - pymc3
+#  - sherpa
+#  - ultranest
