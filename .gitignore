@@ -164,6 +164,6 @@ Assignment/
 Exam/
 Data*
 *answers.ipynb
-Tutorial1*.ipynb
+#Tutorial1*.ipynb
 Tutorial2.ipynb
 Tutorial3.ipynb
