@@ -163,6 +163,7 @@ cython_debug/
 Assignment/
 Exam/
 Data*
+!Data_T2*
 *answers.ipynb
 !Tutorial1*answers.ipynb
 #!Tutorial2*answers.ipynb
