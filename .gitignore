@@ -161,7 +161,7 @@ cython_debug/
 
 # Unit material
 ## Start
-Assignment/
+#Assignment/
 Exam/
 Data*
 Prep*
@@ -173,3 +173,4 @@ Prep*
 !Tutorial2.ipynb
 !Tutorial2_answers-partial.ipynb
 Tutorial3.ipynb
+!Data_Assignment*
